@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WilliamAckerman
-- 👀 I’m interested in web development, data science, and database administration
+- 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning computer programming and information systems at SUNY Farmingdale
 - 💞️ I’m looking to collaborate on web applications
 - 📫 LinkedIn: https://www.linkedin.com/in/william-ackerman-6a4005290/. 
