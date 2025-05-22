@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamAckerman
 - 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning computer programming and information systems at SUNY Farmingdale
+- 🌱 I've recently graduated from SUNY Farmingdale with a Bachelor of Science in Computer Programming & Information Systems
 - 💞️ I’m looking to collaborate on web applications
 - 📫 LinkedIn: https://www.linkedin.com/in/william-ackerman-6a4005290/. 
 - 😄 Pronouns: He/Him/His
